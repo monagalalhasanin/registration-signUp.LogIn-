@@ -40,9 +40,6 @@ body {
 
   } 
   .container {
-    margin-left: 300px;
-    margin-right: 300px;
-    display: flex;
     justify-content: center;
     align-items: center;
     width: 700px;
